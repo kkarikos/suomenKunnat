@@ -138,7 +138,7 @@
     {
       "name": "Harjavalta",
       "longitude": 61.313889,
-      "latitude": 22.141666999999998
+      "latitude": 22.141667
     },
     {
       "name": "Hartola",
@@ -178,7 +178,7 @@
     {
       "name": "Hollola",
       "longitude": 60.9875,
-      "latitude": 25.516666999999998
+      "latitude": 25.516667
     },
     {
       "name": "Honkajoki",
@@ -363,7 +363,7 @@
     {
       "name": "Kajaani",
       "longitude": 64.225,
-      "latitude": 27.733333000000002
+      "latitude": 27.733333
     },
     {
       "name": "Kalajoki",
@@ -558,7 +558,7 @@
     {
       "name": "Kouvola",
       "longitude": 60.868056,
-      "latitude": 26.704166999999998
+      "latitude": 26.704167
     },
     {
       "name": "Kristiinankaupunki",
@@ -603,7 +603,7 @@
     {
       "name": "Kustavi",
       "longitude": 60.545833,
-      "latitude": 21.358333000000002
+      "latitude": 21.358333
     },
     {
       "name": "Kuusamo",
@@ -678,7 +678,7 @@
     {
       "name": "Laukaa",
       "longitude": 62.413889,
-      "latitude": 25.954166999999998
+      "latitude": 25.954167
     },
     {
       "name": "Lavia",
@@ -923,7 +923,7 @@
     {
       "name": "Orimattila",
       "longitude": 60.804167,
-      "latitude": 25.733333000000002
+      "latitude": 25.733333
     },
     {
       "name": "Oripää",
@@ -998,7 +998,7 @@
     {
       "name": "Perho",
       "longitude": 63.215278,
-      "latitude": 24.420833000000002
+      "latitude": 24.420833
     },
     {
       "name": "Pertunmaa",
@@ -1023,7 +1023,7 @@
     {
       "name": "Pietarsaari",
       "longitude": 63.675,
-      "latitude": 22.704166999999998
+      "latitude": 22.704167
     },
     {
       "name": "Pihtipudas",
@@ -1083,7 +1083,7 @@
     {
       "name": "Puolanka",
       "longitude": 64.868056,
-      "latitude": 27.670833000000002
+      "latitude": 27.670833
     },
     {
       "name": "Puumala",
@@ -1148,7 +1148,7 @@
     {
       "name": "Ranua",
       "longitude": 65.929167,
-      "latitude": 26.516666999999998
+      "latitude": 26.516667
     },
     {
       "name": "Rauma",
@@ -1263,7 +1263,7 @@
     {
       "name": "Sievi",
       "longitude": 63.906944,
-      "latitude": 24.516666999999998
+      "latitude": 24.516667
     },
     {
       "name": "Siikainen",
@@ -1428,7 +1428,7 @@
     {
       "name": "Turku",
       "longitude": 60.451389,
-      "latitude": 22.266666999999998
+      "latitude": 22.266667
     },
     {
       "name": "Tuusniemi",
@@ -1573,7 +1573,7 @@
     {
       "name": "Ylitornio",
       "longitude": 66.319444,
-      "latitude": 23.670833000000002
+      "latitude": 23.670833
     },
     {
       "name": "Ylivieska",
